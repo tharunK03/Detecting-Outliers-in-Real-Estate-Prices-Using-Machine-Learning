@@ -23,3 +23,10 @@ How It Works:
 Installation:
 
 To use the API, clone this repository, install the required dependencies, and ensure you have the .pkl model files available
+git clone <repository-url>
+cd <repository-directory>
+pip install -r requirements.txt
+
+
+Run the Flask app:
+python app.py
